@@ -201,8 +201,8 @@ $(document).ready(function() {
     var divid= "#deadline_approx" + i;
     var hidid= "#hide_approx" + i;
     
-    $(divid).hide();
-    
+    // $(divid).hide();
+    $(divid).fadeIn(200*(i+1));
     $(divid).click(function(z,zapprox) { // Fade in backface and make a giant timer for this event on click
       // self-executing function hackery :)
       return function() {
