@@ -160,8 +160,8 @@ $(document).ready(function() {
     var divid= "#deadline" + i;
     var hidid= "#hide" + i;
     
-    $(divid).hide();
-    $(divid).fadeIn(200*(i+1), function() { }); // create a nice fade in effect
+    // $(divid).hide();
+    $(divid).fadeIn(200*(i+1)); // create a nice fade in effect
     
     $(divid).click(function(z,zapprox) { // Fade in backface and make a giant timer for this event on click
       // self-executing function hackery :)
@@ -173,7 +173,7 @@ $(document).ready(function() {
     }(i,false));
   }
   
- //  // create a link button for showing and hiding estimates from past years
+  // create a link button for showing and hiding estimates from past years
  //  var btn_estimates = "btn-show-hide-estimates";
  //  $("div#deadlinesdiv").append("</br><div id='" + btn_estimates + "'>show estimates</div></br>");
  //  $("#"+btn_estimates).click(function(){
