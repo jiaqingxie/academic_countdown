@@ -10,18 +10,18 @@
 		"area": "Bioinfo, Algorithms",
 		"link": "https://psb.stanford.edu/keydates/",
 		"deadline": "August 1, 2025 17:00 UTC-5"
-	}
-	{
-		"venue": "BIBM 2025",
-		"area": "Bioinfo, Algorithms",
-		"link": "https://ieeebibm.org/BIBM2025/",
-		"deadline": "August 3, 2025 17:00 UTC-5"
-	}
+	},
 	{
 		"venue": "AAAI 2026",
 		"area": "AI, Graph, RL",
 		"link": "https://aaai.org/conference/aaai/aaai-26/",
 		"deadline": "August 1, 2025 23:59 UTC-12"
+	},
+	{
+		"venue": "BIBM 2025",
+		"area": "Bioinfo, Algorithms",
+		"link": "https://ieeebibm.org/BIBM2025/",
+		"deadline": "August 3, 2025 17:00 UTC-5"
 	},
 	{
 		"venue": "WSDM 2026",
@@ -34,6 +34,12 @@
 		"area": "ML, Bio, LLM",
 		"link": "https://iclr.cc/Conferences/2026/Dates",
 		"deadline": "September 24, 2025 23:59 GMT-11"
+	},
+	{
+		"venue": "AISTATS 2026",
+		"area": "ML, Bio, MCMC",
+		"link": "https://virtual.aistats.org/Conferences/2026/Dates",
+		"deadline": "October 10, 2025 23:59 GMT-11"
 	},
 	{
 		"venue": "RECOMB 2026",
@@ -52,6 +58,12 @@
 		"area": "Bioinfo, Algorithms",
 		"link": "https://icml.cc/",
 		"deadline": "January 31, 2026 23:59 GMT-11"
+	},
+	{
+		"venue": "UAI 2026",
+		"area": "Bioinfo, Uncertainty, Algorithms",
+		"link": "https://www.auai.org/uai2024/dates",
+		"deadline": "February 4, 2026 23:59 GMT-11"
 	},
 	{
 		"venue": "CoLLAs 2026",
