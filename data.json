@@ -6,6 +6,12 @@
 		"deadline": "July 7, 2025 23:59 UTC-12"
 	},
 	{
+		"venue": "PSB 2026",
+		"area": "Bioinfo, Algorithms",
+		"link": "https://psb.stanford.edu/keydates/",
+		"deadline": "August 1, 2025 17:00 UTC-5"
+	}
+	{
 		"venue": "BIBM 2025",
 		"area": "Bioinfo, Algorithms",
 		"link": "https://ieeebibm.org/BIBM2025/",
@@ -31,9 +37,27 @@
 	},
 	{
 		"venue": "RECOMB 2026",
+		"area": "Bioinfo, Algorithms, Theory",
+		"link": "https://recomb.org/recomb2026/",
+		"deadline": "October 16, 2026 23:59 GMT-11"
+	},
+	{
+		"venue": "IJCAI 2026",
 		"area": "Bioinfo, Algorithms",
-		"link": "https://recomb.org/recomb2025/",
-		"deadline": "October 16, 2025 23:59 GMT-11"
+		"link": "https://2026.ijcai.org/important-dates/",
+		"deadline": "January 23, 2026 23:59 GMT-11"
+	},
+	{
+		"venue": "ICML 2026",
+		"area": "Bioinfo, Algorithms",
+		"link": "https://icml.cc/",
+		"deadline": "January 31, 2026 23:59 GMT-11"
+	},
+	{
+		"venue": "CoLLAs 2026",
+		"area": "Agent, Graph",
+		"link": "hhttps://lifelong-ml.cc/",
+		"deadline": "March 3, 2026 23:59 GMT-11"
 	},
 	{
 		"venue": "ECCV 2026",
@@ -44,7 +68,7 @@
 	{
 		"venue": "ISMB 2026",
 		"area": "Bioinfo, Algorithms",
-		"link": "https://www.iscb.org/ismbeccb2025/key-dates",
+		"link": "https://www.iscb.org/ismbeccb2026/key-dates",
 		"deadline": "April 17, 2026 23:59 GMT-11"
 	},
 	
