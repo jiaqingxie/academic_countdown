@@ -30,10 +30,22 @@
 		"deadline": "August 10, 2025 23:59 GMT-11"
 	},
 	{
+		"venue": "LOG 2025",
+		"area": "Graph, Theory",
+		"link": "https://logconference.org/cfp/",
+		"deadline": "September 4, 2025 23:59 GMT-11"
+	},
+	{
 		"venue": "ICLR 2026",
 		"area": "ML, Bio, LLM",
 		"link": "https://iclr.cc/Conferences/2026/Dates",
 		"deadline": "September 24, 2025 23:59 GMT-11"
+	},
+	{
+		"venue": "SaTML 2026",
+		"area": "ML, Defense",
+		"link": "https://satml.org/participate-cfp/",
+		"deadline": "September 27, 2025 23:59 GMT-11"
 	},
 	{
 		"venue": "AISTATS 2026",
@@ -42,10 +54,28 @@
 		"deadline": "October 10, 2025 23:59 GMT-11"
 	},
 	{
+		"venue": "AAMAS 2026",
+		"area": "Agents, RL, Algorithm",
+		"link": "https://aamas2026.org/",
+		"deadline": "October 16, 2025 23:59 GMT-11"
+	},
+	{
 		"venue": "RECOMB 2026",
 		"area": "Bioinfo, Algorithms, Theory",
 		"link": "https://recomb.org/recomb2026/",
-		"deadline": "October 16, 2026 23:59 GMT-11"
+		"deadline": "October 16, 2025 23:59 GMT-11"
+	},
+	{
+		"venue": "CLeaR 2026",
+		"area": "Causal Inference, Algorithms, Theory",
+		"link": "https://www.cclear.cc/2026",
+		"deadline": "November 4, 2025 23:59 GMT-11"
+	},
+	{
+		"venue": "CVPR 2026",
+		"area": "Computer Vision",
+		"link": "https://cvpr.thecvf.com/Conferences/2025/CallForPapers",
+		"deadline": "November 14, 2025 23:59 GMT-11"
 	},
 	{
 		"venue": "IJCAI 2026",
@@ -60,10 +90,22 @@
 		"deadline": "January 31, 2026 23:59 GMT-11"
 	},
 	{
+		"venue": "KDD 2026",
+		"area": "Bioinfo, Algorithms",
+		"link": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+		"deadline": "February 3, 2026 23:59 GMT-11"
+	},
+	{
 		"venue": "UAI 2026",
 		"area": "Bioinfo, Uncertainty, Algorithms",
 		"link": "https://www.auai.org/uai2024/dates",
 		"deadline": "February 4, 2026 23:59 GMT-11"
+	},
+	{
+		"venue": "AABI 2026",
+		"area": "Bioinfo, Bayesian Inference",
+		"link": "https://approximateinference.org/",
+		"deadline": "February 14, 2026 23:59 GMT-11"
 	},
 	{
 		"venue": "CoLLAs 2026",
@@ -78,10 +120,28 @@
 		"deadline": "March 6, 2026 23:59 GMT-11"
 	},
 	{
+		"venue": "CoNLL 2026",
+		"area": "Theory on LLM",
+		"link": "https://www.conll.org/",
+		"deadline": "March 14, 2026 23:59 GMT-11"
+	},
+	{
+		"venue": "COLM 2026",
+		"area": "Graph, LLM, Bioinfo",
+		"link": "https://colmweb.org/cfp.html",
+		"deadline": "March 28, 2026 23:59 GMT-11"
+	},
+	{
 		"venue": "ISMB 2026",
 		"area": "Bioinfo, Algorithms",
 		"link": "https://www.iscb.org/ismbeccb2026/key-dates",
 		"deadline": "April 17, 2026 23:59 GMT-11"
+	},
+	{
+		"venue": "NeurIPS 2026",
+		"area": "Bioinfo, Algorithms",
+		"link": "https://neurips.cc/",
+		"deadline": "May 15, 2026 23:59 GMT-11"
 	},
 	
 	
